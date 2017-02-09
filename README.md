@@ -34,7 +34,7 @@ vmx file), which often contains more detailed error information.
 ```
 
 System:
- UbuntuGnome: 16.10
- packer: 0.12.2
- vmware-player: 12.5.1.4542065      
- vmware-vix: 1.11.2.591240
+* UbuntuGnome: 16.10
+* packer: 0.12.2
+* vmware-player: 12.5.1.4542065      
+* vmware-vix: 1.11.2.591240
